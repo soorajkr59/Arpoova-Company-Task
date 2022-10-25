@@ -1,0 +1,48 @@
+  
+
+.tasks
+{
+  margin-top: 70px;
+  height: 40px;
+ 
+
+
+}
+
+.task1-inp
+{
+  
+ 
+  height:40px;
+  width: 300px;
+
+}
+.task1-btn1
+{
+  background-color: blue;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.task1-h2
+{
+  margin: 100px;
+
+}
+.Task3-input
+{
+  margin-top: 20px;
+}
+.task3-btn
+{
+ margin-top: 40px;
+ background-color: black;
+ color: white;
+ 
+}
+.task2-input{
+  
+  margin-left: 580px;
+}
